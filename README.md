@@ -154,7 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
 Sergio Orejarena - [Github](https://github.com/sergioo21) / [Twitter](https://twitter.com/sergioor21)  
 Jaime Blanco - [Github](https://github.com/jblanco75) / [Twitter](https://twitter.com/jblanco75)  
