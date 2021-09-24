@@ -14,7 +14,7 @@ $(function () {
     $('DIV.amenities H4').text(Object.values(amenitiesDict).join(', '));
   });
 
-  $.get('http://172.28.50.11:5001/api/v1/status/', function (data) {
+  $.get('http://0.0.0.0:5001/api/v1/status/', function (data) {
     if (data.status === 'OK') {
       $('DIV#api_status').addClass('available');
     } else {
