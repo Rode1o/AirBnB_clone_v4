@@ -1,6 +1,6 @@
 # AirBnB clone - Web dynamic
 
-General
+General:
 How cool it is to request your own API
 How to modify an HTML element style
 How to get and update an HTML element content
